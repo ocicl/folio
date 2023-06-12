@@ -1,0 +1,10 @@
+* folio
+
+The folio library of functional utilities for Common Lisp. folio provides a convenient subset of Bard semantics for use in Common Lisp programs.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mikelevins/folio.git   |
+| commit  | a76f542  |
+| systems | folio |
+|---------+-------------------------------------------|
+
